@@ -1,0 +1,1 @@
+Implementation of a Hanukkah story in Twine. The story branches into many conflicts faced by the characters. The interactive narrative allows for immersion and a deeper understanding of the historical period.
